@@ -10,7 +10,7 @@ LOGGER = logging.getLogger(__name__)
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 
-ENV = bool(os.environ.get('ENV', False))
+ENV = bool(os.environ.get('.env', False))
 try:
   if ENV:
     BOT_TOKEN = os.environ.get('BOT_TOKEN')
