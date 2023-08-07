@@ -1,19 +1,9 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = ""  # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
-    DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
-
     BOT_TOKEN='6522683005:AAEOh1NdBNm2Lxo6rMrjBel8OzyTu-H0ntg'
     APP_ID='23294989'
     API_HASH='eeeae695fbeffe5b130f5cd855adb34f'
     DATABASE_URL='postgres://muzamil:mWVp4rWQIr6sYjou62ZufZSEiIAwK31T@dpg-cig1hct9aq012et11o5g-a.oregon-postgres.render.com/portfolio_mhb8'
-    SUDO_USERS=''
+    SUDO_USERS='' # Sepearted by space.
     SUPPORT_CHAT_LINK=''
     DOWNLOAD_DIRECTORY='./downloads/'
     G_DRIVE_CLIENT_ID='202264815644.apps.googleusercontent.com'

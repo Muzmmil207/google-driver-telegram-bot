@@ -1,20 +1,20 @@
-import os
-import re
 import json
 import logging
-from bot import LOGGER
-from time import sleep
-from tenacity import *
+import os
+import re
 import urllib.parse as urlparse
-from bot.config import Messages
 from mimetypes import guess_type
+from time import sleep
 from urllib.parse import parse_qs
+
+from bot import LOGGER
+from bot.config import Messages
+from bot.helpers.sql_helper import gDriveDB, idsDB
 from bot.helpers.utils import humanbytes
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 from googleapiclient.http import MediaFileUpload
-from bot.helpers.sql_helper import gDriveDB, idsDB
-
+from tenacity import *
 
 logging.getLogger('googleapiclient.discovery').setLevel(logging.ERROR)
 logging.getLogger('oauth2client.transport').setLevel(logging.ERROR)
