@@ -1,3 +1,22 @@
+asgiref
+certifi
+charset-normalizer
+dj-database-url
+Django
+django-ckeditor
+django-cloudinary-storage
+django-cors-headers
+django-environ
+django-debug-toolbar
+gunicorn
+idna
+psycopg2
+Pillow
+requests
+pytz
+six
+sqlparse
+whitenoise
 wget
 asyncio
 pyrogram==1.4.16
@@ -13,4 +32,3 @@ google-auth-oauthlib
 youtube_dl
 ffmpeg
 tenacity
-psycopg2s

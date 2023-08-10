@@ -26,3 +26,28 @@
 2023-08-05 15:58:13,147 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
 2023-08-05 15:58:14,211 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
 2023-08-05 15:58:15,438 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-08-08 18:24:12,969 - __main__ - INFO - Starting Bot !
+2023-08-08 18:24:14,769 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-08-08 18:24:15,789 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-08-08 18:24:16,794 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-08-08 18:24:17,796 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2023-08-08 18:24:18,815 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-08-08 18:24:19,819 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-08-08 18:24:20,835 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-08-08 18:24:21,842 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2023-08-08 18:24:22,854 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-08-08 18:24:23,865 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-08-08 18:24:24,868 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-08-08 18:24:25,875 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2023-08-08 18:24:26,878 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-08-08 18:24:27,880 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-08-08 18:24:28,884 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-08-08 18:24:29,887 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2023-08-08 18:24:30,892 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-08-08 18:24:31,909 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-08-08 18:24:32,912 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-08-08 18:24:33,927 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2023-08-08 18:24:34,982 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-08-08 18:24:35,995 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-08-08 18:24:37,013 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-08-08 18:24:38,099 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
